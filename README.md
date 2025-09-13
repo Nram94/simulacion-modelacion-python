@@ -42,3 +42,27 @@ Cada semana corresponde a una sesión con un **notebook en Colab**.
 ---
 
 ## 📂 Estructura del repositorio
+
+curso-modelacion-simulacion/
+├── semana01/ # Introducción y herramientas
+├── semana02/ # Simulación I
+├── semana03/ # Simulación II
+├── semana04/ # Modelos I
+├── semana05/ # Modelos II
+├── semana06/ # Aplicaciones I
+├── semana07/ # Aplicaciones II
+├── semana08/ # Aplicaciones III
+├── semana09/ # Aplicaciones IV
+└── semana10/ # Aplicaciones V
+
+---
+
+## 📜 Licencia
+Este curso está disponible bajo la licencia 
+[Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
+
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" alt="CC BY-NC-SA 4.0">
+  </a>
+</p>
