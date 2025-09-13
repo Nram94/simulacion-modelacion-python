@@ -49,26 +49,15 @@ Cada semana corresponde a una sesión con un **notebook en Colab**.
 curso-modelacion-simulacion/
 ├── LICENSE                     # CC BY-NC-SA 4.0 (texto completo)
 ├── README.md                   # Este archivo
-├── semana01/
-│   └── 01_introduccion_y_herramientas.ipynb
-├── semana02/
-│   └── 02_simulacion_estatica_dinamica.ipynb
-├── semana03/
-│   └── 03_simulacion_montecarlo_discreta.ipynb
-├── semana04/
-│   └── 04_modelos_empiricos_fenomenologicos.ipynb
-├── semana05/
-│   └── 05_modelos_fenomenologicos_multiescala.ipynb
-├── semana06/
-│   └── 06_aplicaciones_transporte_mezclado.ipynb
-├── semana07/
-│   └── 07_aplicaciones_dispersiones_emulsiones.ipynb
-├── semana08/
-│   └── 08_aplicaciones_intercambiadores_neutralizacion.ipynb
-├── semana09/
-│   └── 09_aplicaciones_secado_filtracion_mecanicos.ipynb
-└── semana10/
-    └── 10_proyectos.ipynb
+├── Semana01_Introduccion.ipynb
+├── Semana02_SimluacionEstaticaDinamica.ipynb
+├── Semana03_SimluacionEspacialDiscreta.ipynb
+├── Semana04_ModelosEmpiricosFenomenologicos.ipynb
+├── Semana05_ModelosFenomenologicosMultiEscala.ipynb
+├── Semana06_AplicacionesI.ipynb
+├── Semana07_AplicacionesII.ipynb
+├── Semana08_AplicacionesIII.ipynb
+├── Semana09_AplicacionesIV.ipynb
 ```
 ---
 
