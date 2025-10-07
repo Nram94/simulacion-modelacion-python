@@ -21,14 +21,14 @@ Cada semana corresponde a una sesión con un **notebook en Colab**.
 | Semana |  Temática                                                                 |
 |--------|--------------------------------------------------------------------------|
 | 01     | Introducción del curso, y herramientas                                   |
-| 02     | Simulación I: Estática y Dinámica                                        |
-| 03     | Simulación II: Monte Carlo y Discreta                                    |
-| 04     | Modelos I: Empíricos y Fenomenológicos                                   |
-| 05     | Modelos II: Fenomenológicos y Multi-escala                              |
-| 06     | Aplicaciones I: Transporte y Mezclado                                  |
-| 07     | Aplicaciones II: Dispersiones y Emulsiones                             |
-| 08     | Aplicaciones III: Intercambiadores de Calor y Neutralización           |
-| 09     | Aplicaciones IV: Secado, filtración y procesos mecánicos               |
+| 02     | Simulación I: Estática                                         |
+| 03     | Simulación II: Dinámica                                   |
+| 04     | Modelos I: Fenomenológicos                                   |
+| 05     | Modelos II: Empíricos                          |
+| 06     | Aplicaciones I: Transporte, Mezclado , Dispersiones y Emulsiones       |
+| 07     | Aplicaciones II: Intercambiadores de Calor y Neutralización            |
+| 08     | Aplicaciones III:   Secado, filtración y procesos mecánicos        |
+| 09     | Aplicaciones IV: Propiedades Fisicoquímicas               |
 | 10     | Aplicaciones V: Proyectos                                              |
 
 ---
@@ -50,10 +50,10 @@ curso-modelacion-simulacion/
 ├── LICENSE                     # CC BY-NC-SA 4.0 (texto completo)
 ├── README.md                   # Este archivo
 ├── Semana01_Introduccion.ipynb
-├── Semana02_SimluacionEstaticaDinamica.ipynb
-├── Semana03_SimluacionEspacialDiscreta.ipynb
-├── Semana04_ModelosEmpiricosFenomenologicos.ipynb
-├── Semana05_ModelosFenomenologicosMultiEscala.ipynb
+├── Semana02_SimluacionEstatica.ipynb
+├── Semana03_SimluacionDinamica.ipynb
+├── Semana04_ModelosFenomenologicos.ipynb
+├── Semana05_ModelosEmpiricos.ipynb
 ├── Semana06_AplicacionesI.ipynb
 ├── Semana07_AplicacionesII.ipynb
 ├── Semana08_AplicacionesIII.ipynb
