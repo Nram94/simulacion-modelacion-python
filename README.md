@@ -40,9 +40,6 @@ Cada semana corresponde a una sesión con un **notebook en Colab**.
 3. Ejecuta las celdas paso a paso y experimenta con los ejemplos.  
 
 ---
-
-## 📂 Estructura del repositorio
-
 ## 📂 Estructura del repositorio
 
 ```text
